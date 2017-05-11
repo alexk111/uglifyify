@@ -8,7 +8,7 @@
     "extend": "^1.2.1",
     "minimatch": "^3.0.2",
     "through": "~2.3.4",
-    "uglify-js": "git+https://github.com/mishoo/UglifyJS2.git#04b89645058d85b8b67bb94fb9e39252160a0959"
+    "uglify-js": "git://github.com/mishoo/UglifyJS2.git#04b89645058d85b8b67bb94fb9e39252160a0959"
   },
   "devDependencies": {
     "bl": "^0.9.3",
